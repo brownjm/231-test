@@ -1,4 +1,4 @@
 # 231 test project
-## intro
+## Intro
 This is just a test for git
 Another change
